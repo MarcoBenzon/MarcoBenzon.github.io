@@ -86,6 +86,16 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 2px solid #18d26e;
   padding-bottom: 6px;
 }
+#header h4 {
+  font-size: 18px;
+  margin-top: 20px;
+  color: rgba(255, 255, 255, 0.8);
+}
+#header h4 span {
+  color: #fff;
+  border-bottom: 2px solid #18d26e;
+  padding-bottom: 6px;
+}
 #header img {
   padding: 0;
   margin: 0;
@@ -116,6 +126,10 @@ h1, h2, h3, h4, h5, h6 {
   }
   #header h2 {
     font-size: 20px;
+    line-height: 30px;
+  }
+  #header h4 {
+    font-size: 16px;
     line-height: 30px;
   }
   #header .social-links {
