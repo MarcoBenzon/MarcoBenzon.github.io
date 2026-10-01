@@ -155,6 +155,9 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-top .social-links, #header.header-top h2 {
   display: none;
 }
+#header.header-top .social-links, #header.header-top h4 {
+  display: none;
+}
 #header.header-top h1 {
   margin-right: auto;
   font-size: 36px;
